@@ -1,0 +1,7 @@
+{
+  "name": "Aura Style Assistant",
+  "description": "A luxury minimalist fashion styling app that uses Gemini AI to analyze your outfits and suggest perfectly matched accessories and shopping links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
